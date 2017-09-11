@@ -1,4 +1,8 @@
-# README
+# Toy App
+
+A small microposts app created using Ruby on Rails' scaffolding. This app follows from [Michael Hartl's Rails Tutorial](https://www.railstutorial.org/book).
+
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
